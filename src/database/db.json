@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "brand": "Apple",
+      "category": "smartphones",
+      "images": "https://i.dummyjson.com/data/products/1/1.jpg",
+      "id": 1
+    },
+    {
+      "title": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 899,
+      "brand": "Apple",
+      "category": "smartphones",
+      "images": "https://i.dummyjson.com/data/products/2/1.jpg",
+      "id": 2
+    },
+    {
+      "title": "Women Shoulder Bags",
+      "description": "LouisWill Women Shoulder Bags Long Clutches Cross Body Bags Phone Bags PU Leather Hand Bags Large Capacity Card Holders Zipper Coin Purses Fashion Crossbody Bags for Girls Ladies",
+      "price": 46,
+      "brand": "LouisWill",
+      "category": "womens-bags",
+      "images": "https://i.dummyjson.com/data/products/71/1.jpg",
+      "id": 3
+    },
+    {
+      "title": "Bluetooth Aux",
+      "description": "Bluetooth Aux Bluetooth Car Aux Car Bluetooth Transmitter Aux Audio Receiver Handfree Car Bluetooth Music Receiver Universal 3.5mm Streaming A2DP Wireless Auto AUX Audio Adapter With Mic For Phone MP3",
+      "price": "30",
+      "brand": "Car Aux",
+      "category": "automative",
+      "images": "https://i.dummyjson.com/data/products/86/1.jpg",
+      "id": 4
+    },
+    {
+      "title": "iphone10",
+      "description": "An apple mobile which is nothing like apple",
+      "price": "123",
+      "brand": "iphone",
+      "category": "apple",
+      "images": "https://i.dummyjson.com/data/products/2/2.jpg",
+      "id": 5
+    },
+    {
+      "title": "iphone11",
+      "description": "An apple mobile which is nothing like apple",
+      "price": "700",
+      "brand": "apple",
+      "category": "smart phone",
+      "images": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone11-purple-2019?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1611169055000",
+      "id": 6
+    },
+    {
+      "title": "comfort",
+      "description": "Turn up the heat or keep your cool with temperature controls and fans.",
+      "price": "200",
+      "brand": "apple",
+      "category": "SmartThermostat",
+      "images": "https://www.apple.com/v/tv-home/j/images/overview/comfort__bnwbuouyz10i_large_2x.jpg",
+      "id": 7
+    }
+  ]
+}
