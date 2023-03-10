@@ -1,6 +1,5 @@
 import React from 'react'
 import SideBar from './sideBar'
-import NavBar from './navbar'
 import { useState,useEffect } from 'react'
 import axios from "axios"
 import {FaEdit} from "react-icons/fa"
@@ -20,7 +19,6 @@ export default function Product() {
   return (
     <>
     
-    <NavBar/>
     <SideBar/>
     <div className='mt-auto'>
     <div className='py-[80px] p-10 grid grid-cols-1 ml-[160px] sm:grid-flow-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5'>

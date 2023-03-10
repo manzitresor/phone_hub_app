@@ -20,6 +20,7 @@ class App extends Component {
 <Route exact path="/dashboard" element={<Dashboard/>}></Route>
 <Route exact path="/newproduct" element={<NewProduct/>}></Route>
 <Route exact path="/product" element={<Product/>}></Route>
+<Route exact path="/store" element={<Store/>}></Route>
 </Routes>
  
  

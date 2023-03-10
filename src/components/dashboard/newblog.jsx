@@ -38,7 +38,6 @@ setTitle('')
 
 
 <SideBar></SideBar>
-<NavBar></NavBar>
   <header class="max-w-lg mx-auto">
         <Link href="#">
             <h1 class="text-4xl font-bold text-white text-center">Startup</h1>
@@ -47,7 +46,7 @@ setTitle('')
 
     <main class="bg-white max-w-lg mx-auto p-8 md:p-12 my-10 rounded-lg shadow-2xl">
         <section>
-            <h3 class="font-bold text-2xl text-teal-300">ADD NEW PRODUCT</h3>
+            <h3 class="font-bold text-2xl text-[#002242]">ADD NEW PRODUCT</h3>
         </section>
 
         <section class="mt-10">
@@ -105,7 +104,7 @@ setTitle('')
                 <div class="">
                     <label class="block text-gray-700 text-sm font-bold mb-2 ml-3" for="password">Desciption</label>
                     <textarea 
-                    className=" w-full rounded bg-gray-200 focus:outline-none focus:border-teal-300 border-2" 
+                    className=" w-full rounded bg-gray-200 focus:outline-none focus:border-[#002242] border-2" 
                     rows="4"
                     value={description}
                     onChange={(e)=>{
@@ -114,10 +113,9 @@ setTitle('')
                     > 
                    
                     </textarea>
-                   
                 </div>
                 <button 
-                class="bg-[#002242] mx-7 my-10  hover:bg-teal-300 text-white font-bold py-2 rounded shadow-lg hover:shadow-xl transition duration-200" 
+                class="bg-[#002242] mx-7 my-10  hover:bg-white hover:text-[#002242] text-white font-bold py-2 rounded shadow-lg hover:shadow-xl transition duration-200" 
                 type="submit"
                
                 >ADD NEW</button>

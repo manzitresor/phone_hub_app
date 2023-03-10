@@ -9,7 +9,6 @@ export default function Dashboard() {
   return (
        <>
        <header>
-        <NavBar></NavBar>
         <SideBar></SideBar>
         <Cards></Cards>
         <Table></Table>
